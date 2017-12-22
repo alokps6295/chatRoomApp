@@ -1,0 +1,23 @@
+{
+  "name": "chatapp",
+  "version": "1.0.0",
+  "description": "chat app using mean",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alokps6295/chatRoomApp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alokps6295/chatRoomApp/issues"
+  },
+  "homepage": "https://github.com/alokps6295/chatRoomApp#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "hogan-express": "^0.5.2"
+  }
+}

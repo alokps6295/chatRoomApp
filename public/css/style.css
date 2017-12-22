@@ -1,0 +1,50 @@
+.hm-container {
+    height: 250px;
+    width: 400px;
+    margin: 0 auto;
+    border: 1px solid black;
+    background-color: lightgrey;
+}
+
+.hm-title {
+
+    font-style: Arial;
+    font-size: 28px;
+    border-bottom: 1px solid grey;
+}
+
+.cr-chatroom {
+    border: 1px solid black;
+}
+
+.cr-userbox {
+    border: 1px solid lightgrey;
+}
+
+.username {
+    margin-top: 10px;
+}
+
+.cr-newroom {
+    margin-top: 1px;
+}
+
+.newroom {
+    float: left;
+    height: 30px;
+    width: 80%;
+}
+
+#create {
+    float: left;
+    height: 37px;
+}
+
+.cr-roomlist {
+    border: 1px solid black;
+}
+
+.roomlist li {
+    padding: 3px;
+    background-color: lightgrey;
+}
